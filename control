@@ -1,0 +1,12 @@
+Homepage: VNSafes - Aov
+Depiction: T3Team - Aov
+Author: T3Group - Aov
+Maintainer: Aov Hack Chấp Tố
+Name: Menu Esp Aov Chấp Tố
+Package: com.vnsafes.aov
+Depends: firmware (>= 8.0)
+Section: VNSafes
+Icon: https://img.upanh.tv/2024/09/11/F7DB0ED7-76B7-46C7-946C-33197CDCBA96.jpg
+Architecture: iphoneos-arm64
+Description: Liên Quân Mobile
+Dev: VNSafes - Aov (Chấp Tố)

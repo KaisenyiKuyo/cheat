@@ -1,0 +1,303 @@
+Chức năng: HackMap
+Offset: 0x53a87c8 Bytes: 36008052
+
+Chức năng: Cam Gần
+Offset: 0x61dcf60 Bytes: 01102F1E
+
+Chức năng: Cam Xa
+Offset: 0x61dcf5c Bytes: 00902F1E
+
+Chức năng: Cam Siêu Xa
+Offset: 0x61dcf6c Bytes: 0110201E
+
+Chức năng: Hiện LSĐ
+Offset: 0x5ce11ec Bytes: 20008052C0035FD6
+
+Chức năng: Cam 3 Nấc
+Offset: 0x5ed9230 Bytes: 20008052C0035FD6
+
+Chức năng: Fix FPS1
+Offset: 0x5ee5658 Bytes: C0035FD6
+
+Chức năng: Fix FPS2
+Offset: 0x5ee5560 Bytes: C0035FD6
+
+Chức năng: Hiện Ulti1
+Offset: 0x5eb565c Bytes: E10301AA
+
+Chức năng: Hiện Ulti2
+Offset: 0x5eb56ec Bytes: 33008052
+
+Chức năng: Hiện Rank
+Offset: 0x5f910f0 Bytes: E10301AA
+
+Chức năng: Hiện Tên
+Offset: 0x5ec1074 Bytes: 37008052
+
+Chức năng: Hiện Avatar
+Offset: 0x5cb9d98 Bytes: 00008052C0035FD6
+
+Chức năng: Hiện Bổ trợ
+Offset: 0x6067f54 Bytes: 1f2003D5
+
+Chức năng: Camera_main
+Offset: 0x6849ae4 Bytes: HOOK
+
+Chức năng: SetFOV
+Offset: 0x6847c78 Bytes: HOOK
+
+Chức năng: LateUpdate
+Offset: 0x648bb48 Bytes: HOOK
+
+Chức năng: GetCamHightRate
+Offset: 0x61dcf08 Bytes: HOOK
+
+Chức năng: OnHeightChanged
+Offset: 0x61dd330 Bytes: HOOK
+
+Chức năng: OnCameraUpdate
+Offset: 0x61dbf10 Bytes: HOOK
+
+Chức năng: IsUseSkillJoystick
+Offset: 0x5ad3a44 Bytes: HOOK
+
+Chức năng: IsSmartUse
+Offset: 0x59e85b4 Bytes: HOOK
+
+Chức năng: IsDistanceLowerEqualAsAttacker
+Offset: 0x64c36fc Bytes: HOOK
+
+Chức năng: IsSkillDirControlRotate
+Offset: 0x5d4f60c Bytes: HOOK
+
+Chức năng: SetPlayerName1 (3 biến)
+Offset: 0x5a66624 Bytes: C0035FD6-HOOK
+
+Chức năng: SetPlayerName2 (2 biến)
+Offset: 0x5fce904 Bytes: C0035FD6-HOOK
+
+Chức năng: Ẩn UID
+Offset: 0x5c89d1c Bytes: C0035FD6
+
+Chức năng: Autowin
+Offset: 0x0 Bytes: C0035FD6
+
+Chức năng: Skill0s
+Offset: 0x542e6d8 Bytes: C0035FD6-HOOK
+
+Chức năng: OneHit
+Offset: 0x52f513c Bytes: C0035FD6-HOOK
+
+Chức năng: Hack Vàng
+Offset: 0x547e2bc Bytes: C0035FD6-HOOK
+
+Chức năng: MoveSpeed
+Offset: 0x547e5f8 Bytes: C0035FD6-HOOK
+
+Chức năng: CostEnergy
+Offset: 0x502a2d0 Bytes: C0035FD6-HOOK
+
+Chức năng: Test SKin
+Offset: 0x5c00ff4 Bytes: C0035FD6
+
+Chức năng: CanUseSkin
+Offset: 0x5d006dc Bytes: C0035FD6-HOOK
+
+Chức năng: Bán Balo
+Offset: 0x5c59944 Bytes: C0035FD6
+
+Chức năng: Nổ trụ văng
+Offset: 0x54d72f4 Bytes: C0035FD6-HOOK
+
+Chức năng: UpdateFrameLater
+Offset: 0x52bf5c0 Bytes: C0035FD6-HOOK
+
+Chức năng: SampleFrameSyncData
+Offset: 0x538f4e0 Bytes: C0035FD6-HOOK
+
+Chức năng: SetLoginOffset
+Offset: 0x529f314 Bytes: C0035FD6-HOOK
+
+Chức năng: PrintTrafficOffset
+Offset: 0x529fe08 Bytes: C0035FD6-HOOK
+
+Chức năng: isRTLOffset
+Offset: 0x56530f4 Bytes: C0035FD6-HOOK
+
+Chức năng: MtaUpdateOffset
+Offset: 0x5552e00 Bytes: C0035FD6-HOOK
+
+Chức năng: recycleFrameOffset
+Offset: 0x549e35c Bytes: C0035FD6-HOOK
+
+Chức năng: initTssdkSys
+Offset: 0x6060c88 Bytes: C0035FD6-HOOK
+
+Chức năng: UpdateVerByteArray
+Offset: 0x6060cd0 Bytes: C0035FD6-HOOK
+
+Chức năng: InitTssdk
+Offset: 0x6060de4 Bytes: C0035FD6-HOOK
+
+Chức năng: SetTssHostUrl
+Offset: 0x6061078 Bytes: C0035FD6-HOOK
+
+Chức năng: SetChannelIps
+Offset: 0x60610cc Bytes: C0035FD6-HOOK
+
+Chức năng: SetChannelHost
+Offset: 0x60611d0 Bytes: C0035FD6-HOOK
+
+Chức năng: SetChannelIp
+Offset: 0x6061260 Bytes: C0035FD6-HOOK
+
+Chức năng: setUserInfo
+Offset: 0x60612f4 Bytes: C0035FD6-HOOK
+
+Chức năng: CreateTssSDKSys
+Offset: 0x6061398 Bytes: C0035FD6-HOOK
+
+Chức năng: On_GetAntiData
+Offset: 0x60614e0 Bytes: C0035FD6-HOOK
+
+Chức năng: SenSecLightAntiDataReportMsg
+Offset: 0x6061800 Bytes: C0035FD6-HOOK
+
+Chức năng: OnRecvSignatureV2
+Offset: 0x6061884 Bytes: C0035FD6-HOOK
+
+Chức năng: OnRecvSignature
+Offset: 0x6061920 Bytes: C0035FD6-HOOK
+
+Chức năng: UpdateTssdkSys
+Offset: 0x60619c0 Bytes: C0035FD6-HOOK
+
+Chức năng: ctorTssdkSys
+Offset: 0x6061b20 Bytes: C0035FD6-HOOK
+
+Chức năng: Cheatskin1
+Offset: 0x341c9ec Bytes: C0035FD6-HOOK
+
+Chức năng: Cheatskin2
+Offset: 0x341c9f4 Bytes: C0035FD6-HOOK
+
+Chức năng: SampleAndSyncFrameData
+Offset: 0x52b6dfc Bytes: C0035FD6-HOOK
+
+Chức năng: SendSyncData
+Offset: 0x52b6efc Bytes: C0035FD6-HOOK
+
+Chức năng: get_Enable
+Offset: 0x538e3b0 Bytes: C0035FD6-HOOK
+
+Chức năng: set_Enable
+Offset: 0x538e3b8 Bytes: C0035FD6-HOOK
+
+Chức năng: OnConstruct
+Offset: 0x538e3c0 Bytes: C0035FD6-HOOK
+Chức năng: ClearHashValueQueue
+Offset: 0x538e42c Bytes: C0035FD6-HOOK
+
+Chức năng: Bind
+Offset: 0x538e4b0 Bytes: C0035FD6-HOOK
+
+Chức năng: Reset
+Offset: 0x538e524 Bytes: C0035FD6-HOOK
+
+Chức năng: OnHashCheckRsp
+Offset: 0x538e5dc Bytes: C0035FD6-HOOK
+
+Chức năng: DequeHashValueByFrameNum
+Offset: 0x538e918 Bytes: C0035FD6-HOOK
+
+Chức năng: CloseUpload
+Offset: 0x538e9f0 Bytes: C0035FD6-HOOK
+
+Chức năng: OnUpload
+Offset: 0x538eeec Bytes: C0035FD6-HOOK
+
+Chức năng: OnUpload2
+Offset: 0x538ef68 Bytes: C0035FD6-HOOK
+
+Chức năng: Upload
+Offset: 0x538efcc Bytes: C0035FD6-HOOK
+
+Chức năng: OnNotifyHashCheckUnsyncByDs
+Offset: 0x538f2e0 Bytes: C0035FD6-HOOK
+
+Chức năng: EnqueHashValueByFrameNum
+Offset: 0x538f660 Bytes: C0035FD6-HOOK
+
+Chức năng: GetUserData
+Offset: 0x50cba38 Bytes: C0035FD6-HOOK
+
+Chức năng: SetUserData
+Offset: 0x50cba30 Bytes: C0035FD6-HOOK
+
+Chức năng: ActorLinker_Update
+Offset: 0x648b8e4 Bytes: ESP
+
+Chức năng: LActorRootUpdateLogic
+Offset: 0x523a260 Bytes: ESP
+
+Chức năng: ActorLinker_ActorDestroy
+Offset: 0x648b660 Bytes: ESP
+
+Chức năng: LActorRoot_ActorDestroy
+Offset: 0x5239da0 Bytes: ESP
+
+Chức năng: ActorLinker_IsHostPlayer
+Offset: 0x648e1b0 Bytes: ESP
+
+Chức năng: ActorLinker_ActorTypeDef
+Offset: 0x6487324 Bytes: ESP
+
+Chức năng: ActorLinker_COM_PLAYERCAMP
+Offset: 0x64872cc Bytes: ESP
+
+Chức năng: ActorLinker_getPosition
+Offset: 0x6486e84 Bytes: ESP
+
+Chức năng: ActorLinker_get_bVisible
+Offset: 0x64871b0 Bytes: ESP
+
+Chức năng: LActorRoot_get_forward
+Offset: 0x523697c Bytes: ESP
+
+Chức năng: LActorRoot_get_location
+Offset: 0x522fe24 Bytes: ESP
+
+Chức năng: LActorRoot_LHeroWrapper
+Offset: 0x523a9ac Bytes: ESP
+
+Chức năng: LActorRoot_COM_PLAYERCAMP
+Offset: 0x523a774 Bytes: ESP
+
+Chức năng: LActorRoot_get_ObjID
+Offset: 0x5230de8 Bytes: ESP
+
+Chức năng: LActorRoot_get_PlayerMovement
+Offset: 0x52367a8 Bytes: ESP
+
+Chức năng: LActorRoot_get_isMovable
+Offset: 0x5236748 Bytes: ESP
+
+Chức năng: LObjWrapper_get_IsDeadState
+Offset: 0x530ab00 Bytes: ESP
+
+Chức năng: ActorLinker_get_ObjID
+Offset: 0x64867dc Bytes: ESP
+
+Chức năng: LObjWrapper_IsAutoAI
+Offset: 0x532922c Bytes: ESP
+
+Chức năng: ValuePropertyComponent_get_actorHp
+Offset: 0x5479604 Bytes: ESP
+
+Chức năng: ValuePropertyComponent_get_actorHpTotal
+Offset: 0x54797a4 Bytes: ESP
+
+Chức năng: AsHero
+Offset: 0x648df0c Bytes: ESP
+
+Tạo bởi Phát Phạm
